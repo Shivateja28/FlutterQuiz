@@ -1,0 +1,92 @@
+[
+    {
+        "no" : 1,
+        "question" : "Flutter is developed by ________.",
+        "option1" : "Microsoft", 
+        "option2" : "Google",
+        "option3" : "Facebook",
+        "option4" : "IBM",
+        "answer" : "Google"
+    },
+    {
+        "no" : 2,
+        "question" : "What is Dart?",
+        "option1" : "Dart is a object-oriented programming language.", 
+        "option2" : "Dart is used to create a frontend user interfaces.",
+        "option3" : "Both A and B",
+        "option4" : "None of the above",
+        "answer" : "Both A and B"
+    },
+    {
+        "no" : 3,
+        "question" : "SDK stands for _________.",
+        "option1" : "Software Development Knowledge", 
+        "option2" : "Software Data Kit",
+        "option3" : "Software Development Kit",
+        "option4" : "Software Database Kit",
+        "answer" : "Software Development Kit"
+    },
+    {
+        "no" : 4,
+        "question" : "What are the advantages of Flutter?",
+        "option1" : "Cross-platform Development", 
+        "option2" : "Faster Development",
+        "option3" : "UI Focused",
+        "option4" : "All of the above",
+        "answer" : "All of the above"
+    },
+    {
+        "no" : 5,
+        "question" : "A _______ is a sequence of asynchronous events.",
+        "option1" : "Stream", 
+        "option2" : "Current",
+        "option3" : "Flow",
+        "option4" : "All of the above",
+        "answer" : "Stream"
+    },
+    {
+        "no" : 6,
+        "question" : "The ________ operator is used to evaluate and returns the value between two expressions.",
+        "option1" : "&", 
+        "option2" : "?",
+        "option3" : "&&",
+        "option4" : "??",
+        "answer" : "??"
+    },
+    {
+        "no" : 7,
+        "question" : " _______ in Flutter are used as an identifier for Widgets, Elements and SemanticsNodes.",
+        "option1" : "Buttons", 
+        "option2" : "Keys",
+        "option3" : "Widgets",
+        "option4" : "None of the above",
+        "answer" : "Keys"
+    },
+    {
+        "no" : 8,
+        "question" : "How many types of widgets are there in Flutter?",
+        "option1" : "2", 
+        "option2" : "3",
+        "option3" : "4",
+        "option4" : "5",
+        "answer" : "2"
+    },
+    {
+        "no" : 9,
+        "question" : "The ________ widget in Flutter is a box that comes with a specified size.",
+        "option1" : "Container", 
+        "option2" : "Stream",
+        "option3" : "Show",
+        "option4" : "SizedBox",
+        "answer" : "SizeBox"
+    },
+    {
+        "no" : 10,
+        "question" : " ________ is the project's configuration file that will use a lot during working with the Flutter project.",
+        "option1" : "pubspec.html", 
+        "option2" : "pubspec.yaml",
+        "option3" : "pubspec.xyz",
+        "option4" : "pubspec.xml",
+        "answer" : "pubspec.yaml"
+    }
+]
